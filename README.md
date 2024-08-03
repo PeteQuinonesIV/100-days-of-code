@@ -6,6 +6,7 @@
 - [Log - click here to see my progress](log.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
+- [Twitter](Twitter.md)
 
 ## Translations
 
